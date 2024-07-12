@@ -94,7 +94,10 @@
   explain any of the variability.
 - We can check these thing between trained and test data
 - Also we can use recidual plot for predict trained model performance
-- Additional information - https://www.geeksforgeeks.org/regression-metrics/  
+- Additional information - https://www.geeksforgeeks.org/regression-metrics/
+
+<br>
+   
 <p>
   <img src="https://github.com/user-attachments/assets/69667738-849c-40fc-a8fd-f8cf25a12c79" alt="SH1" width="900" height="600" />
 </p>
