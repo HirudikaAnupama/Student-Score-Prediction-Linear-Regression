@@ -34,7 +34,7 @@
   
 - We can use Encoding method or dummy method for convert categorical data into numerical or boolean.
 
-### _Data Analysis_
+### Data Analysis
 
 - We can analyze the relationships between the target and the features using plots, graphs, etc.
 - We can identify the relationship through the following sample examples.
